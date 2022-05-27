@@ -1,5 +1,5 @@
 # AirlineTickets
-Airline application
+Airline application (https://arnurarykbaev.github.io/AirlineTickets/dist/index.html)
 
 This application will help you find plane tickets. You can find your flight option by plane
 with the exact date and location you need. And also you can choose the currency you need.
